@@ -1,0 +1,6 @@
+.streamlit/*
+__pycache__/*
+*.ipynb
+compiled_files/*
+data_extract/*
+.conda/*
